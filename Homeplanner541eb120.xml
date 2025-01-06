@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\Homeplanner.iml" timestamp="1723611841172" />
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\dictionaries\91790.xml" timestamp="1725166799177" />
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1723611557424" />
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\misc.xml" timestamp="1723611841199" />
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\modules.xml" timestamp="1723611557434" />
+    <file path="C:\Users\91790\PycharmProjects\Homeplanner\.idea\workspace.xml" timestamp="1736178102243" />
+  </project-files>
+</conversion>
+
